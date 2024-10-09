@@ -8,6 +8,7 @@ Neste módulo, apresentamos os fundamentos da lógica de programação, essencia
 Compreender o que é um algoritmo.
 
 Identificar tipos de dados e variáveis.
+
 Realizar operações matemáticas simples.
 
 # 📌Estruturas de Controle
