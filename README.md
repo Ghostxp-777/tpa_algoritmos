@@ -1,28 +1,23 @@
-Técnicas de Programação de Algoritmos - ETEC
+## Técnicas de Programação de Algoritmos - ETEC
 
-Aprendendo técnicas de programação com algoritmos, exemplos práticos
+# Aprendendo técnicas de programação com algoritmos, exemplos práticos de atividades que nos ensinaram usando muitos tipos de comandos.
 
-Módulo 1: Introdução à Lógica de Programação
+# 📌Introdução à Lógica de Programação
 
 Neste módulo, apresentamos os fundamentos da lógica de programação, essenciais para o desenvolvimento de algoritmos. Você aprenderá sobre variáveis, tipos de dados e operações básicas.
 
-Objetivos
+# Objetivos
 
 Compreender o que é um algoritmo.
-
 Identificar tipos de dados e variáveis.
-
 Realizar operações matemáticas simples.
 
-
-Módulo 2: Estruturas de Controle
+# 📌Estruturas de Controle
 
 Aqui, vamos explorar as principais estruturas de controle utilizadas na linguagem Portugol, fundamentais para a tomada de decisões e repetição de blocos de código.
 
-1. SE e SENÃO
-
+# ✏️SE e SENÃO
 A estrutura SE permite a execução de um bloco de código se uma condição for verdadeira, enquanto SENÃO fornece uma alternativa.
-
 Exemplo:
 
 se (idade >= 18) {
@@ -31,18 +26,16 @@ se (idade >= 18) {
     escreva("Você é menor de idade.")
 }
 
-2. PARA
+# ✏️PARA
 
 A estrutura PARA é utilizada para repetições com um número fixo de iterações.
-
 Exemplo:
 
 para (i = 1; i <= 10; i++) {
     escreva(i)
 }
 
-3. ENQUANTO
-
+# ✏️ENQUANTO
 A estrutura ENQUANTO repete um bloco de código enquanto uma condição for verdadeira.
 
 Exemplo:
@@ -52,10 +45,9 @@ enquanto (contador < 5) {
     contador = contador + 1
 }
 
-4. CASO
+# ✏️ESCOLHA CASO
 
-A estrutura CASO permite executar diferentes blocos de código com base no valor de uma variável.
-
+A estrutura ESCOLHA CASO permite executar diferentes blocos de código com base no valor de uma variável.
 Exemplo:
 
 caso (opcao) {
@@ -65,14 +57,12 @@ caso (opcao) {
     outro: escreva("Opção inválida.")
 }
 
-Módulo 3: Estruturas de Repetição
+## 📌Estruturas de Repetição
 
 Neste módulo, aprofundamos nas estruturas de repetição, discutindo quando e como utilizá-las. Você entenderá como aplicá-las para resolver problemas práticos.
-
 Tipos de Estruturas de Repetição
 
-PARA: ideal para iterações conhecidas.
-
+<h3>PARA:</h3>h2> ideal para iterações conhecidas.
 ENQUANTO: útil para iterações indeterminadas.
 
 
