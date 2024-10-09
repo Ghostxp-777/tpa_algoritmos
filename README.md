@@ -2,7 +2,7 @@
 
 Aprendendo técnicas de programação com algoritmos, exemplos práticos de atividades que nos ensinaram usando muitos tipos de comandos.
 
-### 📌Introdução à Lógica de Programação
+###### 📌Introdução à Lógica de Programação
 
 Neste módulo, apresentamos os fundamentos da lógica de programação, essenciais para o desenvolvimento de algoritmos. Você aprenderá sobre variáveis, tipos de dados e operações básicas.
 
