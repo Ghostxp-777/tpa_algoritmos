@@ -1,5 +1,5 @@
 # Técnicas de Programação de Algoritmos - ETEC
-Aprendendo técnicas de programação com algoritmos, exemplos práticos de atividades que nos ensinaram usando muitos tipos de comandos.
+Aprendendo técnicas de programação com algoritmos em portugol, exemplos práticos de atividades que nos ensinaram usando muitos tipos de comandos.
 
 ## 📌Introdução à Lógica de Programação
 Neste módulo, apresentamos os fundamentos da lógica de programação, essenciais para o desenvolvimento de algoritmos. Você aprenderá sobre variáveis, tipos de dados e operações básicas.
@@ -48,14 +48,14 @@ caso (opcao) {
     outro: escreva("Opção inválida.")
 }
 
-# 📌Estruturas de Repetição
+## 📌Estruturas de Repetição
 Neste módulo, aprofundamos nas estruturas de repetição, discutindo quando e como utilizá-las. Você entenderá como aplicá-las para resolver problemas práticos.
 
-## Tipos de Estruturas de Repetição
+<h3>Tipos de Estruturas de Repetição</h3>
 PARA: ideal para iterações conhecidas.
 ENQUANTO: útil para iterações indeterminadas.
 
-## Exemplos Práticos
+### Exemplos Práticos
 Criar tabelas de multiplicação.
 Implementar contadores com diferentes condições.
 
