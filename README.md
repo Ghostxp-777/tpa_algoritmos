@@ -4,7 +4,7 @@ Aprendendo técnicas de programação com algoritmos, exemplos práticos de ativ
 ## 📌Introdução à Lógica de Programação
 Neste módulo, apresentamos os fundamentos da lógica de programação, essenciais para o desenvolvimento de algoritmos. Você aprenderá sobre variáveis, tipos de dados e operações básicas.
 
-### Objetivos
+<h3>Objetivos</h3>
 Compreender o que é um algoritmo.
 Identificar tipos de dados e variáveis.
 Realizar operações matemáticas simples.
