@@ -9,6 +9,23 @@ Compreender o que é um algoritmo.<br>
 Identificar tipos de dados e variáveis.<br>
 Realizar operações matemáticas simples.
 
+# 📌O que é o Portugol?
+O Portugol é uma linguagem de programação didática criada para facilitar o ensino de programação para falantes de português. Ela utiliza a língua portuguesa como base para seus comandos, tornando o aprendizado mais intuitivo e acessível.
+
+### ✏️Principais características:
+
+<strong>Simplicidade:<strong> Sintaxe similar ao português, facilitando a compreensão.
+Foco na lógica: Permite concentrar-se nos conceitos básicos da programação.
+Base para outras linguagens: Serve como introdução para linguagens mais complexas.
+Didática: Utilizada em cursos e escolas para ensinar programação.
+Para que serve:
+
+Ensinar programação: Introduzir os conceitos de algoritmos e lógica de programação.
+Criar pequenos programas: Resolver problemas simples e desenvolver a lógica de programação.
+Em resumo:
+
+O Portugol é uma excelente ferramenta para quem está começando a programar. Ao aprender Portugol, você estará dando o primeiro passo para dominar outras linguagens de programação e se tornar um desenvolvedor.
+
 # 📌Estruturas de Controle
 
 Aqui, vamos explorar as principais estruturas de controle utilizadas na linguagem Portugol, fundamentais para a tomada de decisões e repetição de blocos de código.
@@ -68,24 +85,6 @@ Importância das Funções
 Reutilização de código.
 
 Melhoria na legibilidade e manutenção.
-
-
-Exemplo de Função
-
-funcao somar(a, b) {
-    retorne a + b
-}
-
-Módulo 5: Prática e Aplicação
-
-Neste módulo, você realizará exercícios práticos para aplicar os conhecimentos adquiridos. Cada aluno desenvolverá algoritmos utilizando as estruturas estudadas.
-
-Exercícios Propostos
-
-Criar um programa de cálculo de média.
-
-Implementar um sistema de menu utilizando a estrutura CASO.
-
 
 Conclusão
 
