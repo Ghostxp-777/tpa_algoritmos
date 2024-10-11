@@ -1,4 +1,4 @@
-# Técnicas de Programação de Algoritmos - ETEC
+<p align="center"># Técnicas de Programação de Algoritmos - ETEC</p>
 Aprendendo técnicas de programação com algoritmos em portugol, exemplos práticos de atividades que nos ensinaram usando muitos tipos de comandos.
 
 ## 📌Introdução à Lógica de Programação
@@ -20,8 +20,8 @@ O Portugol é uma linguagem de programação didática criada para facilitar o e
 <strong>Didática:</strong> Utilizada em cursos e escolas para ensinar programação.
 
 ### ✏️Para que serve:
-Ensinar programação: Introduzir os conceitos de algoritmos e lógica de programação.
-Criar pequenos programas: Resolver problemas simples e desenvolver a lógica de programação.
+<strong>Ensinar programação:</strong> Introduzir os conceitos de algoritmos e lógica de programação.
+<strong>Criar pequenos programas:</strong> Resolver problemas simples e desenvolver a lógica de programação.
 Em resumo:
 
 O Portugol é uma excelente ferramenta para quem está começando a programar. Ao aprender Portugol, você estará dando o primeiro passo para dominar outras linguagens de programação e se tornar um desenvolvedor.
