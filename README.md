@@ -1,4 +1,4 @@
-<p align="center"># Técnicas de Programação de Algoritmos - ETEC</p>
+<align="center"># Técnicas de Programação de Algoritmos - ETEC
 Aprendendo técnicas de programação com algoritmos em portugol, exemplos práticos de atividades que nos ensinaram usando muitos tipos de comandos.
 
 ## 📌Introdução à Lógica de Programação
