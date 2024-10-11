@@ -15,11 +15,11 @@ O Portugol é uma linguagem de programação didática criada para facilitar o e
 ### ✏️Principais características:
 
 <strong>Simplicidade:</strong> Sintaxe similar ao português, facilitando a compreensão.
-Foco na lógica: Permite concentrar-se nos conceitos básicos da programação.
-Base para outras linguagens: Serve como introdução para linguagens mais complexas.
-Didática: Utilizada em cursos e escolas para ensinar programação.
-Para que serve:
+<strong>Foco na lógica:</strong> Permite concentrar-se nos conceitos básicos da programação.
+<strong>Base para outras linguagens:</strong> Serve como introdução para linguagens mais complexas.
+<strong>Didática:</strong> Utilizada em cursos e escolas para ensinar programação.
 
+### ✏️Para que serve:
 Ensinar programação: Introduzir os conceitos de algoritmos e lógica de programação.
 Criar pequenos programas: Resolver problemas simples e desenvolver a lógica de programação.
 Em resumo:
