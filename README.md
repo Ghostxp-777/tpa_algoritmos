@@ -28,46 +28,27 @@ Aqui, vamos explorar as principais estruturas de controle utilizadas na linguage
 ### ✏️SE e SENÃO
 A estrutura SE permite a execução de um bloco de código se uma condição for verdadeira, enquanto SENÃO fornece uma alternativa.
 Exemplo:
-se (idade >= 18) {
-    escreva("Você é maior de idade.")
-} senão {
-    escreva("Você é menor de idade.")
-}
-
-### ✏️PARA
-A estrutura PARA é utilizada para repetições com um número fixo de iterações.
-Exemplo:
-para (i = 1; i <= 10; i++) {
-    escreva(i)
-}
-
-### ✏️ENQUANTO
-A estrutura ENQUANTO repete um bloco de código enquanto uma condição for verdadeira.
-Exemplo:
-
-enquanto (contador < 5) {
-    escreva("Contador: ", contador)
-    contador = contador + 1
-}
+<img src="exSE.jfif">
 
 ### ✏️ESCOLHA CASO
 A estrutura ESCOLHA CASO permite executar diferentes blocos de código com base no valor de uma variável.
 Exemplo:
-caso (opcao) {
-    1: escreva("Opção 1 selecionada.")
-    2: escreva("Opção 2 selecionada.")
-    3: escreva("Opção 3 selecionada.")
-    outro: escreva("Opção inválida.")
-}
+<img src="exESCOLHA.jfif">
 
 # 📌Estruturas de Repetição
 Neste módulo, aprofundamos nas estruturas de repetição, discutindo quando e como utilizá-las. Você entenderá como aplicá-las para resolver problemas práticos.
 
 ### ✏️Tipos de Estruturas de Repetição
-PARA: ideal para iterações conhecidas.
-ENQUANTO: útil para iterações indeterminadas.
-<img src="">
 
+### ✏️PARA
+A estrutura PARA é utilizada para repetições com um número fixo de iterações.
+Exemplo:
+<img src="exPARA.jfif">
+
+### ✏️ENQUANTO
+A estrutura ENQUANTO repete um bloco de código enquanto uma condição for verdadeira.
+Exemplo:
+<img src="exENQUANTO.jfif">
 
 A prática constante com os conceitos de lógica de programação e as estruturas de controle em Portugol é fundamental para o desenvolvimento de suas habilidades. A estrutura modular deste curso facilitará a assimilação do conteúdo e o preparará para desafios mais complexos na área.
 
