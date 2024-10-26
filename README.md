@@ -4,6 +4,7 @@ Aprendendo técnicas de programação com algoritmos em portugol, exemplos prát
 ## 📌Introdução à Lógica de Programação
 Neste módulo, apresentamos os fundamentos da lógica de programação, essenciais para o desenvolvimento de algoritmos. Você aprenderá sobre variáveis, tipos de dados e operações básicas.
 <img src="INTRODUCAO.jpeg">
+
 # 📌O que é o Portugol?
 O Portugol é uma linguagem de programação didática criada para facilitar o ensino de programação para falantes de português. Ela utiliza a língua portuguesa como base para seus comandos, tornando o aprendizado mais intuitivo e acessível.
 
@@ -50,5 +51,12 @@ A estrutura ENQUANTO repete um bloco de código enquanto uma condição for verd
 Exemplo:
 <img src="exENQUANTO.jfif">
 
-A prática constante com os conceitos de lógica de programação e as estruturas de controle em Portugol é fundamental para o desenvolvimento de suas habilidades. A estrutura modular deste curso facilitará a assimilação do conteúdo e o preparará para desafios mais complexos na área.
+# 📌Vetores
 
+### ✏️O que são Vetores?
+Em Portugol, um vetor é uma estrutura que permite armazenar vários valores de um mesmo tipo em uma única variável. Ele é como uma "caixa" dividida em várias posições, e cada posição pode guardar um valor.
+
+Exemplo de um vetor:
+<img src="exVETOR.jfif">
+
+A prática constante com os conceitos de lógica de programação e as estruturas de controle em Portugol é fundamental para o desenvolvimento de suas habilidades. A estrutura modular deste curso facilitará a assimilação do conteúdo e o preparará para desafios mais complexos na área.
