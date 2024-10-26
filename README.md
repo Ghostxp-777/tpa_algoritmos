@@ -4,11 +4,6 @@ Aprendendo técnicas de programação com algoritmos em portugol, exemplos prát
 ## 📌Introdução à Lógica de Programação
 Neste módulo, apresentamos os fundamentos da lógica de programação, essenciais para o desenvolvimento de algoritmos. Você aprenderá sobre variáveis, tipos de dados e operações básicas.
 
-<h3>Objetivos</h3>
-Compreender o que é um algoritmo.<br>
-Identificar tipos de dados e variáveis.<br>
-Realizar operações matemáticas simples.
-
 # 📌O que é o Portugol?
 O Portugol é uma linguagem de programação didática criada para facilitar o ensino de programação para falantes de português. Ela utiliza a língua portuguesa como base para seus comandos, tornando o aprendizado mais intuitivo e acessível.
 
@@ -71,6 +66,7 @@ Neste módulo, aprofundamos nas estruturas de repetição, discutindo quando e c
 ### ✏️Tipos de Estruturas de Repetição
 PARA: ideal para iterações conhecidas.
 ENQUANTO: útil para iterações indeterminadas.
+<img src="">
 
 
 A prática constante com os conceitos de lógica de programação e as estruturas de controle em Portugol é fundamental para o desenvolvimento de suas habilidades. A estrutura modular deste curso facilitará a assimilação do conteúdo e o preparará para desafios mais complexos na área.
